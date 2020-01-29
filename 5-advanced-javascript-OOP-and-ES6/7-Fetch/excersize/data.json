@@ -1,0 +1,21 @@
+[
+    {
+        "username" : "omer",
+        "password": "12345",
+        "profile": "Mashroom.com"
+        
+    },
+    {
+        "username" : "ali",
+        "password": "54321",
+        "profile": "ali.com"
+        
+    },
+    {
+        "username" : "kenan",
+        "password": "67890",
+        "profile": "kenan.com"
+        
+    }
+
+]
